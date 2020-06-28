@@ -1,7 +1,6 @@
 ---
 title: "Contact"
 permalink: /contact/
-layout: default
 header:
   image:
 ---
