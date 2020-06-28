@@ -18,7 +18,7 @@ feature_row:
     btn_label: "Learn more"     
   - image_path: /assets/images/table5.jpg
     alt: "table from thesis"
-    title: "Access to Education"
+    title: "Research"
     excerpt: "Heather's research to date has focused on demographic predictors of receipt of formal sex education in the United States."
     url: "/research/"
     btn_class: "btn--primary"
