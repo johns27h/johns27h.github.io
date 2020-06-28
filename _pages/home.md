@@ -8,4 +8,14 @@ header:
   actions:
     - label: "About"
       url: "/about/"
----
+feature_row:
+    - image_path: /assets/images/HeatherPhoto small.jpg
+      alt: "photo of heather"
+      title: "Meet Heather"
+      excerpt: "Heather is a Statistics Ph.D. student at the University of Michigan. She also works as a freelance data analyst and statistics tutor."
+      url: "/about/"
+      btn_class: "btn--primary"
+      btn_label: "Learn more"     
+  ---
+
+      {% include feature_row %}
