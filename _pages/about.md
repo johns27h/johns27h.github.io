@@ -1,7 +1,7 @@
 ---
 title: "About"
 permalink: /about/
-type: pages
+layout: default
 header:
   image:
 ---
