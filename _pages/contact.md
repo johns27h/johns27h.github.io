@@ -5,3 +5,5 @@ header:
   image:
 ---
 Say hi!
+
+{% include contact-form.html %}
