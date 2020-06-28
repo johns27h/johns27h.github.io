@@ -30,6 +30,5 @@ feature_row:
       url: "/teaching/"
       btn_class: "btn--primary"
       btn_label: "Learn more"  
-  ---
-
-      {% include feature_row %}
+---
+{% include feature_row %}
