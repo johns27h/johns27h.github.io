@@ -18,12 +18,12 @@ feature_row:
     btn_label: "Learn more"     
   - image_path: /assets/images/table5.jpg
     alt: "table from thesis"
-    title: "Access to Health Education"
+    title: "Access to Education"
     excerpt: "Heather's research to date has focused on demographic predictors of receipt of formal sex education in the United States."
     url: "/research/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/HeatherPhoto small.jpg
+  - image_path: /assets/images/computers.jpg
     alt: "photo of heather"
     title: "Teaching"
     excerpt: "Heather works as a tutor at the primary, secondary, postsecondary, and postgraduate levels."
