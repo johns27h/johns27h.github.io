@@ -168,6 +168,7 @@ exclude:
   - package-lock.json
   - Rakefile
   - README
+  - ['*.Rmd']
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
