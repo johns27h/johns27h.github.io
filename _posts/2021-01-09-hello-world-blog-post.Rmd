@@ -3,8 +3,10 @@ title: Hello World Blog Post
 author: Heather Johnston
 date: '2021-01-09'
 slug: hello-world-blog-post
-categories: []
+categories: 
+  - hello-world
 tags: []
+layout: post
 ---
 
 # Hello world!
