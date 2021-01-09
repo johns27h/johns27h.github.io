@@ -2,7 +2,12 @@
 title: "Hello world blog post"
 author: "Heather Johnston"
 date: "1/9/2021"
-output: html_document
+slug: hello-jekyll
+categories:
+  - graphs
+tags: []
+
+layout: post
 ---
 
 
