@@ -8,7 +8,7 @@ main:
     url: /projects/
     children:
       - title: "Hello World RMarkdown post"
-      - url: /hello_world/
+      - url: /hello-world/
   - title: "Teaching"
     url: /teaching/
   - title: "Consulting"
