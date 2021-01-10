@@ -3,23 +3,17 @@ title: Hello World Blog Post
 author: Heather Johnston
 date: '2021-01-09'
 slug: hello-world-blog-post
-categories: 
-  - hello-world
+categories: []
 tags: []
-layout: post
-output:
-  md_document:
-    variant: markdown_github
-    preserve_yaml: true
 ---
 
-Hello world!
-============
+# Hello world!
 
 Here is my post. It is just a test.
 
-``` r
+
+```r
 hist(rnorm(101))
 ```
 
-![](2021-01-09-hello-world-blog-post_files/figure-markdown_github/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)

@@ -1,8 +1,7 @@
 source "https://rubygems.org"
 gem "jekyll-remote-theme"
 gem "jekyll-include-cache"
-# To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll", "~> 3.5"
 
 group :jekyll_plugins do
   gem "jekyll-feed"
