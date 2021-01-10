@@ -13,10 +13,13 @@ output:
     preserve_yaml: true
 ---
 
-# Hello world!
+Hello world!
+============
 
 Here is my post. It is just a test.
 
-```{r}
+``` r
 hist(rnorm(101))
 ```
+
+![](2021-01-09-hello-world-blog-post_files/figure-markdown_github/unnamed-chunk-1-1.png)
