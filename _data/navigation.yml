@@ -6,9 +6,6 @@ main:
     url: /research/
   - title: "Projects"
     url: /projects/
-    children:
-      - title: "Hello World RMarkdown post"
-      - url: /hello-world/
   - title: "Teaching"
     url: /teaching/
   - title: "Consulting"

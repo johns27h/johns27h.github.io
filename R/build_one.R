@@ -12,8 +12,8 @@ local({
   # d = gsub('^_|[.][a-zA-Z]+$', '', a[1])
   d = gsub('^([._/]+)|[.][a-zA-Z]+$', '', a[1])
   knitr::opts_chunk$set(
-    # fig.path   = sprintf('assets/figures/%s/', d),
-    fig.path = sprintf('%s/', gsub('^.+/', '', d)),
+    # fig.path   = sprintf('assets/figures/%s/', d), ### THIS WAS ORIGINALLY COMMENTED OUT
+     fig.path = sprintf('%s/', gsub('^.+/', '', d)), # This was originally not commented out
     cache.path = sprintf('cache/%s/', d)
   )
   if (getOption('blogdown.base.dir', '') != '') {
@@ -24,5 +24,5 @@ local({
   }
   options(digits = 4)
   knitr::opts_knit$set(width = 70)
-  knitr::knit(a[1], a[2], quiet = TRUE, encoding = 'UTF-8', envir = .GlobalEnv)
+  knitr::knit(a[1], a[2], quiet = TRUE, encoding = 'native', envir = .GlobalEnv)
 })
