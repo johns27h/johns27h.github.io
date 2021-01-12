@@ -93,11 +93,17 @@ analytics:
 # Site Author
 author:
   name             : "Heather Johnston"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Statistics Ph.D. Student at the University of Michigan"
+  avatar           : "/assets/images/headshot.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Statistics Ph.D. Student"
   location         : "Ann Arbor, MI"
   email            :
   links:
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/heather-johnston-statistician"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/heatherjohnston/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
@@ -110,9 +116,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
