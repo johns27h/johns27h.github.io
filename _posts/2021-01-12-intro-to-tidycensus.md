@@ -1,5 +1,5 @@
 ---
-title: Tutorial: Getting Census Data with Tidycensus for R Beginners
+title: Getting Census Data with Tidycensus for R Beginners
 author: Heather Johnston
 date: '2021-01-12'
 slug: intro-to-tidycensus
