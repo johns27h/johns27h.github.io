@@ -14,7 +14,7 @@ I am a graduate student studying Statistics at the University of Michigan. I am 
 **University of Michigan** \
 _Anticipated Graduation April 2025_
 
-* **Courses:** Probability, Linear Models, Statistical Inference, Statistical Learning, and Research Ethics
+- **Courses:** Probability, Linear Models, Statistical Inference, Statistical Learning, and Research Ethics
 
 ##### B.A. with Double Major in Statistics & Sociology
 **Mount Holyoke College** \
@@ -24,6 +24,7 @@ GPA: 3.95/4.0
 - **Honors Thesis:** _Demographic differences in access to formal sex education in the United States_
    + Used R and STATA to analyze complex survey data from the Centers for Disease Control and Prevention
    + Conducted statistical tests and modeling procedures to predict receipt of health education
+   + Reviewed current qualitative and quantitative public health and sociology research
 
 - **Selected Courses:** Probability, Mathematical Statistics, Applied Regression Methods, Survey Sampling, Survey Research & Data Analysis, Multivariable Calculus, Linear Algebra, Discrete Math
 
